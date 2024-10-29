@@ -8,3 +8,5 @@ import { name as appName } from "./app.json";
 import "./src/sheet";
 
 AppRegistry.registerComponent(appName, () => App);
+AppRegistry.registerComponent(appName, () => App);
+AppRegistry.registerComponent(appName, () => App);
